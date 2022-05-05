@@ -71,4 +71,4 @@ After that, a restIdx is also implemented to give the robot 1 hour of breaktime 
 
 Note: Although the question sample did not specify, I also consider the general cases where the start time and end time for the shifts in weekend and weekday can be different. I also consider cases where day and night may or may not cross dates (for example, night could be from 00:00 - 07:00 and day could be 07:00 - 00:00) to make the programme more flexible.
 
-**Note that the bot is developed on Replit, so the libraries used are Replit specific!**
+**Note that the code is developed on Replit, so the libraries used are Replit specific!**
