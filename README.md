@@ -70,3 +70,5 @@ The trickiest part of this question is to consider the cases where the working h
 After that, a restIdx is also implemented to give the robot 1 hour of breaktime for every accumulated 8 hours of work. Then it's just summation of multiplication between work time and rate.
 
 Note: Although the question sample did not specify, I also consider the general cases where the start time and end time for the shifts in weekend and weekday can be different. I also consider cases where day and night may or may not cross dates (for example, night could be from 00:00 - 07:00 and day could be 07:00 - 00:00) to make the programme more flexible.
+
+**Note that the bot is developed on Replit, so the libraries used are Replit specific!**
