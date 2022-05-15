@@ -1,4 +1,6 @@
-# Credit-Suisse-Coding-Challenge-2021
+# Robot Rates Calculator 2021
+
+This is an entry challenge I submitted when I participated in 2021 Credit Suisse Online Coding Challenge - CodeIT Suisse Hong Kong.
 
 ## Question
 
